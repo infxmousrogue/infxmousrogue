@@ -6,5 +6,3 @@
 - Python
 - SwiftUI and Swift
 - ABAP
-
-Currently I'm learning game development on Unity3D and plan on releasing an IOS game in the near future. 
