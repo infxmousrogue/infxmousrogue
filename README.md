@@ -18,7 +18,7 @@ TBA
 - SwiftUI
 - UIKit
 
-🎯 Goals for 2024
+🎯 Goals for 2025
 - Develop and release an IOS game
 
 💡 Featured Projects
