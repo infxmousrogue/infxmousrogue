@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Mirhad Rama  
-**Full Stack Developer • UI/UX Enthusiast • Digital Craftsman**
+**Digital Craftsman**
 
 I’m passionate about building digital experiences that combine creativity with technical precision.  
 My work spans from elegant front-end interfaces to reliable backend systems — always with a focus on usability, performance, and design consistency.
@@ -55,7 +55,7 @@ I believe the best software happens where **technical excellence** meets **thoug
 
 ### 🤝 Open To
 - Freelance collaborations and creative partnerships  
-- Discussions about **emerging web technologies**  
+- Discussions about **emerging AI technologies**  
 - Mentoring and knowledge sharing  
 
 ---
@@ -65,17 +65,11 @@ I believe the best software happens where **technical excellence** meets **thoug
 
 ---
 
-### 📊 GitHub Stats
-![Mirhad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhyks&show_icons=true&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhyks&layout=compact&theme=radical&hide_border=true)
-
----
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mirhad-rama)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mhyks.dev)
-[![X (Twitter)](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mhyks)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/mhyks.bsky.social)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mhyks.com)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/mhyks.com)
 
 ---
 
